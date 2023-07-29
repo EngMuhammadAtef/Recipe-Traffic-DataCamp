@@ -29,27 +29,32 @@
     • replacing them with the mean of data.
 
 # Data Visualization 
+![download1](https://github.com/EngMuhammadAtef/Recipe-Traffic-DataCamp/assets/96551959/f3fa0502-00c1-4ee5-8d73-4255e7940395)
+
 • The number of Breakfast is the highest number posted. 
 
 • One dish meals are the least number posted
-![download1](https://github.com/EngMuhammadAtef/Recipe-Traffic-DataCamp/assets/96551959/f3fa0502-00c1-4ee5-8d73-4255e7940395)
 
 
 # Data Visualization 
+![download2](https://github.com/EngMuhammadAtef/Recipe-Traffic-DataCamp/assets/96551959/7c763c2e-3432-4bcd-ad97-a7ef8d891ed7)
+
 • The distribution of calories posted is right-skewed 
 
 • There are outliers [Data points > 2500cal]
-![download2](https://github.com/EngMuhammadAtef/Recipe-Traffic-DataCamp/assets/96551959/7c763c2e-3432-4bcd-ad97-a7ef8d891ed7)
 
 
 # Data Visualization 
+![download3](https://github.com/EngMuhammadAtef/Recipe-Traffic-DataCamp/assets/96551959/679eaee6-aa61-47c3-8c0c-48951fea716a)
+
 The number of 4-servings is the highest number posted. 
 
 The number of 1-servings is the least number posted.
-![download3](https://github.com/EngMuhammadAtef/Recipe-Traffic-DataCamp/assets/96551959/679eaee6-aa61-47c3-8c0c-48951fea716a)
 
 
 # Data Visualization 
+![download4](https://github.com/EngMuhammadAtef/Recipe-Traffic-DataCamp/assets/96551959/cfe6c3ec-b54e-4e48-a8d2-05af6555ea7d)
+
 ## We can summarize that 
 • The more calories the recipe, the more traffic 
 
@@ -58,7 +63,6 @@ The number of 1-servings is the least number posted.
 • The less sugar the recipe, the more traffic 
 
 • The more protein the recipe, the more traffic
-![download4](https://github.com/EngMuhammadAtef/Recipe-Traffic-DataCamp/assets/96551959/cfe6c3ec-b54e-4e48-a8d2-05af6555ea7d)
 
 
 # Is this difference a real difference or by chance? 
