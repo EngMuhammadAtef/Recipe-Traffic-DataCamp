@@ -62,7 +62,9 @@ The number of 1-servings is the least number posted.
 
 
 # Is this difference a real difference or by chance? 
-Subtract mean of high-traffic calories & mean of low-traffic calories = 65.37 The Hypothesis: 
+Subtract mean of high-traffic calories & mean of low-traffic calories = 65.37 
+
+## The Hypothesis: 
 
 • Null Hypothesis (H0): mean for High-traffic calories <= mean for Low-traffic calories 
 
